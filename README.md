@@ -1,5 +1,4 @@
-👋  Hi, I’m @Evan, passionate about:
-    - Node JS
+👋  Hi, I’m @Evan, passionate about coding
     
 💻 Programming languages:
     - Javascript
