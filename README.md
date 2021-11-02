@@ -1,14 +1,12 @@
-👋  Hi, I’m @Evan, passionate about coding
+👋  Hi, I’m @Evan, I love coding
     
 💻 Programming languages:
-    - Javascript
-    - Go
+    - Javascript, PHP
     
- 🚀 Some of my projects:
-    - Some Web Apps base on Javascript & Flutter apps 
-    - My Website
+ 🚀 my projects:
+    - Some Web Apps and Website base on Javascript and php
     
 - 🌱 I’m currently learning ...
-    - Backend 
+    - Backend, especially GOLANG MICROSERVICE, CI/CD
 
 
