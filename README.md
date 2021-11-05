@@ -7,6 +7,6 @@
     - Some Web Apps and Website base on Javascript and php
     
 - 🌱 I’m currently learning ...
-    - Backend, especially GOLANG MICROSERVICE, CI/CD
+    - Backend, especially Golang 
 
 
