@@ -4,9 +4,10 @@
     - Javascript, PHP
     
  🚀 my projects:
-    - Some Web Apps and Website base on Javascript and php
+    - Some web apps and base on Javascript and php
     
 - 🌱 I’m currently learning ...
-    - Backend, especially Golang 
+    - Backend, especially Golang
+    - Frontend, React JS 
 
 
