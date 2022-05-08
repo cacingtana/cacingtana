@@ -1,12 +1,12 @@
 👋  Hi, I’m @Evan, I love coding
     
 💻 Programming languages:
-    - Javascript, PHP
+    - Javascript, php
     
  🚀 my projects:
-    - Some web apps and base on Javascript and php
+    - Some web apps base on Javascript and php
     
-- 🌱 I’m currently learning ...
-    - Backend, especially Golang
+- 🌱 I’m currently learning backend ...
+    - Especially Golang
 
 
